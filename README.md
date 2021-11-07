@@ -81,4 +81,4 @@ Klintoff Apache
 <br>
 <br>
 ### Registered at ENI the board of maintaining intra cricket
-- [Convert USD to LKR NOW !!!](https://migarabhanu.github.io/USD-to-LKR) - Advertisement
+- [Convert USD to LKR NOW !!!](https://github.com/migarabhanu/USD-to-LKR) - Advertisement
