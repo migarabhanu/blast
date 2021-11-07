@@ -16,7 +16,7 @@ Wickfari Morris
 Starc Williamson
 Seamankhan Simon
 Mash Smash
-
+<br>
 **Somerset CC**
 Chucki Paras
 Eilukeer Booster
@@ -24,7 +24,7 @@ Database Longshore
 Tobby Smash
 Janojan Scraper
 <br>
-Darham CC**
+**Darham CC**
 Tembarikhan Simion
 Summerset I Singh
 Jhon Michel
