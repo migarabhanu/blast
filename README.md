@@ -19,8 +19,19 @@ Starc Williamson
 <br>
 Seamankhan Simion
 <br>
+Seria the Grace
+<br>
 Mash Smash
 <br>
+R. Vegar
+<br>
+Kanshriya Sussecs
+<br>
+Brisbein Pheonix
+<br>
+Jonathan Picaso
+<br>
+Fari Kinen
 <br>
 ***Somerset Squad***
 <br>
@@ -34,6 +45,15 @@ Tobby Smash
 <br>
 Janojan Scraper
 <br>
+Cinia Caldia
+<br>
+Patty Slowyem
+<br>
+Janapriy Samrat
+<br>
+Timia Catlear
+<br>
+Richard Tobby Hadlee
 <br>
 ***Darham Squad***
 <br>
@@ -46,7 +66,16 @@ Jhon Michel
 Jacobson Raina
 <br>
 Maya Adithya
-
+<br>
+Luwy Bear
+<br>
+Tech MacMillar
+<br>
+Yahara Benny
+<br>
+Pussy Williamson
+<br>
+Klintoff Apache
 <br>
 ### Registered at ENI the board of maintaining intra cricket
 - [Convert USD to LKR NOW !!!](https://migarabhanu.github.io/USD-to-LKR) - Advertisement
