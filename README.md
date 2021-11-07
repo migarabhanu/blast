@@ -11,7 +11,7 @@
 **Players - 30**
 
 ## Teams 🤹
-**Worwickshir CC**
+***Worwickshir Squad***
 <br>
 Wickfari Morris
 <br>
@@ -22,7 +22,7 @@ Seamankhan Simion
 Mash Smash
 <br>
 <br>
-**Somerset CC**
+***Somerset Squad***
 <br>
 Chucki Paras
 <br>
@@ -35,7 +35,7 @@ Tobby Smash
 Janojan Scraper
 <br>
 <br>
-**Darham CC**
+***Darham Squad***
 <br>
 Tembarikhan Simion
 <br>
@@ -46,3 +46,5 @@ Jhon Michel
 Jacobson Raina
 <br>
 Maya Adithya
+
+# Organized By ENI the board of maintaining intra cricket.
