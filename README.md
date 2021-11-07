@@ -12,21 +12,34 @@
 
 ## Teams 🤹
 **Worwickshir CC**
+<br>
 Wickfari Morris
+<br>
 Starc Williamson
-Seamankhan Simon
+<br>
+Seamankhan Simion
+<br>
 Mash Smash
 <br>
 **Somerset CC**
 Chucki Paras
+<br>
 Eilukeer Booster
+<br>
 Database Longshore
+<br>
 Tobby Smash
+<br>
 Janojan Scraper
 <br>
 **Darham CC**
+<br>
 Tembarikhan Simion
+<br>
 Summerset I Singh
+<br>
 Jhon Michel
+<br>
 Jacobson Raina
+<br>
 Maya Adithya
