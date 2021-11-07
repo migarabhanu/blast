@@ -9,24 +9,3 @@
 **Teams - 3**
 <br>
 **Players - 30**
-
-## Teams 🤹
-**Worwickshir CC**
-Wickfari Morris
-Starc Williamson
-Seamankhan Simon
-Mash Smash
-<br>
-**Somerset CC**
-Chucki Paras
-Eilukeer Booster
-Database Longshore
-Tobby Smash
-Janojan Scraper
-<br>
-**Darham CC**
-Tembarikhan Simion
-Summerset I Singh
-Jhon Michel
-Jacobson Raina
-Maya Adithya
