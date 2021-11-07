@@ -1,4 +1,4 @@
-## HAMMERDIX BLAST ⚾
+# HAMMERDIX BLAST ⚾
 **Hammerdix Blast is an intra cricket t20 franchise league powered with ENI Cricket. This will be it's official website. 🏏**
 
 ## Basic information 😼
@@ -48,5 +48,5 @@ Jacobson Raina
 Maya Adithya
 
 <br>
-#### Registered at ENI the board of maintaining intra cricket
+### Registered at ENI the board of maintaining intra cricket
 - [Convert USD to LKR NOW !!!](https://migarabhanu.github.io/USD-to-LKR) - Advertisement
