@@ -48,9 +48,7 @@ Jacobson Raina
 Maya Adithya
 
 #### Organized by ECC.
-<br>
 #### Registered at ENI the board of maintaining intra cricket.
-<br>
-#### Website Maintained by @migarabhanu
+#### Website Maintained by migara.
 
-- [Find the circumference of a circle !!!](https://breakdance.github.io/breakdance/)
+- [Convert USD to LKR NOW !!!](https://migarabhanu.github.io/USD-to-LKR) - Advertisement
