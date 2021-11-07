@@ -47,4 +47,6 @@ Jacobson Raina
 <br>
 Maya Adithya
 
-#### Organized By ENI the board of maintaining intra cricket.
+#### Organized by ECC.
+#### Registered at ENI the board of maintaining intra cricket.
+#### Website Maintained by @migarabhanu
