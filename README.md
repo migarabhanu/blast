@@ -47,8 +47,12 @@ Jacobson Raina
 <br>
 Maya Adithya
 
-#### Organized by ECC.
-#### Registered at ENI the board of maintaining intra cricket.
-#### Website Maintained by migara.
-
+***** Organized by ECC.
+<br>
+***** Registered at ENI the board of maintaining intra cricket.
+<br>
+***** Website Maintained by migara.
+<br>
+<br>
+<br>
 - [Convert USD to LKR NOW !!!](https://migarabhanu.github.io/USD-to-LKR) - Advertisement
