@@ -1,5 +1,5 @@
 # HAMMERDIX BLAST ⚾
-**Hammerdix Blast is an intra cricket t20 franchise league powered with ENI Cricket. This will be it's official website. 🏏**
+**Hammerdix Blast is an intra cricket t20 franchise league powered with ENI Cricket. This is it's official website. Via this website, you can easily have good updates about the franchise. 🏏**
 
 ## Basic information 😼
 **Type - T20 Franchise**
@@ -80,5 +80,5 @@ Pussy Williamson
 Klintoff Apache
 <br>
 <br>
-### Registered at ENI the board of maintaining intra cricket
+### Registered at ENI the board of maintaining intra cricket.
 - [Convert USD to LKR NOW !!!](https://github.com/migarabhanu/USD-to-LKR) - Advertisement
