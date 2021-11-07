@@ -3,6 +3,9 @@
 
 ## Basic information 😼
 **Type - T20 Franchise**
+<br>
 **Overs - Limited**
+<br>
 **Teams - 3**
+<br>
 **Players - 30**
