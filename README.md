@@ -1,6 +1,11 @@
 # HAMMERDIX BLAST ⚾
 **Hammerdix Blast is an intra cricket t20 franchise league powered with ENI Cricket for the first time. This is it's official website. Via this website, you can easily have good updates about the franchise. 🏏**
 
+## NEWEST![
+
+Green and Yellow Support a Team Instagram Post (1)](https://user-images.githubusercontent.com/76873393/156117356-1e9a24fd-3f21-4175-8135-bc35c68a991c.png)
+
+
 ## Basic information 😼
 **Type - T20 Franchise**
 <br>
