@@ -1,8 +1,8 @@
-Somerrset vs Warwicshire
+## Somerrset vs Warwicshire
 
-Warwicshir captain Wicfaria Moris won the toss and chose to bowl first.
+## Warwicshir captain Wicfaria Moris won the toss and chose to bowl first.
 
-Somerrset
+# Somerrset
 
 1.Eilukeer Booster - 1
 2.Tobby Smash - 30
@@ -12,7 +12,7 @@ Somerrset
 
 Total _ 81 ( For some reasons -5 was subtracted from the team score )
 
-Warwickshir
+# Warwickshir
 
 1.Starc Williamson - 24
 2 Wickfari Morris - 0
@@ -23,17 +23,17 @@ Warwickshir
 Total - 80* ( Due to some reasons super over has been started after the discussion between team captains and players ) 
 
 
-Super Over 
+## Super Over 
 
 
-Warwickshire Country Cricket Club 
+# Warwickshire Country Cricket Club 
 
 1.Mash Smash - 8*(6)
 
 Total - 8 runs from one over.
 
 
-Somerset Country Cricket Club 
+# Somerset Country Cricket Club 
 
 1.Janojan Scraper - 5(4)
 2.Tobby Smash -0*(2)
