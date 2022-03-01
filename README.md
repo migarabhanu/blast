@@ -3,7 +3,7 @@
 
 ## NEWEST!
 
-(https://user-images.githubusercontent.com/76873393/156117356-1e9a24fd-3f21-4175-8135-bc35c68a991c.png)
+<img>(https://user-images.githubusercontent.com/76873393/156117356-1e9a24fd-3f21-4175-8135-bc35c68a991c.png)</img>
 
 
 ## Basic information 😼
